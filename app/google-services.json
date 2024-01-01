@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80427605212",
+    "project_id": "zadatak-projekt",
+    "storage_bucket": "zadatak-projekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80427605212:android:57911ac54ab7a639772819",
+        "android_client_info": {
+          "package_name": "com.ante.zadatak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA4npuY1vV-5pegaWs48zBWaWR1F0MDIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
